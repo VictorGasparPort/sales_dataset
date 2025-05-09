@@ -4,7 +4,7 @@ Este projeto tem como objetivo analisar dados de vendas. Ele abrange todo o cicl
 
 ---
 
-## 📁 Estrutura do Projeto a
+## 📁 Estrutura do Projeto:
 ```text
 sales_dataset/
 │
